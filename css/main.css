@@ -1,0 +1,33 @@
+#logo {
+	margin-top:-20px;
+}
+
+@media (max-width: 900px) {
+	#logo {
+		margin-top: 0px;
+	}
+}
+
+#header {
+	background-color: rgba(0,0,0,0.6);
+}
+
+#featured-services {
+    padding: 60px 0 40px 0;
+}
+
+.featured-services-image {
+  width:100%;
+}
+
+#intro .carousel-item {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100% 100%;
+}
+
+
+#intro .carousel-item::before {
+	background-color: rgba(0, 0, 0, 0.4);
+}
