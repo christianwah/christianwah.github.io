@@ -31,3 +31,11 @@
 #intro .carousel-item::before {
 	background-color: rgba(0, 0, 0, 0.4);
 }
+
+.en {
+	display:none;
+}
+
+.table td {
+   text-align: center;   
+}
