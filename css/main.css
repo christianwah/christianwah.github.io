@@ -43,3 +43,10 @@
 .inner-menu-space {
 	padding: 60px;
 }
+.overflow-hidden {
+    overflow: hidden;
+}
+.image-fit {
+	width:100%;
+	height:100;
+}
